@@ -1,0 +1,10 @@
+<div class="footer">
+	<div class="container">
+        <p class="animated wow fadeInDown animated" data-wow-duration="1200ms" data-wow-delay="500ms">Powered By © <a href="http://ariesesolutions.com/" target="_blank">Aries e-Solutions</a> 2018. All Rights Reserved</p>
+	</div>
+</div>
+<a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 0;"></span> <span id="toTopHover" style="opacity: 0;"> </span></a>
+
+<!--- footer ---->	
+</body>
+</html>

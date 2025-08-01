@@ -1,0 +1,337 @@
+.cstmWidthMobile {
+  margin-bottom: 15px;
+}
+p {
+  text-align: justify;
+}
+.imgWhatFind {
+  border-radius: 20px;
+}
+
+.formSelect {
+  background-color: #f3f3f3;
+  border: none;
+  padding: 0.875rem 0.75rem !important;
+}
+.error-field {
+  color: #da0c0c !important;
+  position: absolute !important;
+  bottom: -30% !important;
+}
+/* inner page banner section style */
+.bannerSecInnerPage {
+  /* min-height: 50vh; */
+  min-height: 60vh;
+  background: url(assets/esol/images/inner-page-banner/aerial-view-container-cargo-ship-sea.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  margin-top: 110px;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* background-color: rgba(0, 0, 0, 0.5); */
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 0;
+}
+.text-content-div p {
+  text-align: center;
+}
+.infoInnerpage {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+.infoInnerpage a {
+  color: white;
+}
+/* end inner page banner section style */
+.cstm-padding-section {
+  padding: 60px 0;
+}
+.cstmPreviousSpeakerName {
+  font-weight: 600;
+  font-size: 18px;
+}
+/* .speakers-gallery-item-thumb img {
+  height: 300px;
+  width: 300px;
+  object-fit: contain;
+} */
+
+.owl-theme .owl-dots .owl-dot.active span {
+  background: linear-gradient(97.14deg, #7579ff 7.11%, #b224ef 97.04%) !important;
+  transform: scale(1.5); /* Optional: make the active dot larger */
+}
+.footerLink a {
+  color: black !important;
+}
+
+.cstmRecaptchaDiv {
+  background: #f3f3f3;
+  border-radius: 8px;
+  padding: 10px 20px;
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px !important;
+}
+.cstmRecaptchaDiv input {
+  background-color: white !important;
+}
+.nav-item a {
+  font-weight: 600;
+}
+.menuGap {
+  gap: 10px;
+}
+.menuLargeScreen a::before {
+  font-family: "Font Awesome 6 Free";
+  content: "\f111";
+  font-weight: 600;
+  font-size: 6px;
+  color: blueviolet;
+  margin-right: 8px;
+}
+.overlayBanner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 0;
+}
+.h3BannerSection {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+.flexBtnBanner {
+  flex-wrap: wrap;
+}
+.cstmWidthMobile {
+  border: none;
+  box-shadow: none !important;
+}
+.icon img {
+  width: 25px;
+}
+.infoBannerSec {
+  top: 0 !important;
+}
+.hoverAnimationPopUp {
+  transition: all 0.3s ease;
+}
+.hoverAnimationPopUp :hover {
+  transform: translateY(-3px);
+}
+
+.menuGap li a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 1;
+}
+
+/* banner video */
+.video-bg {
+  /* position: absolute; */
+  /* min-height: 100%; */
+  height: 100%;
+  /* min-width: 100%; */
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  z-index: -2;
+}
+/* end banner video */
+
+.indexContactInfoBox {
+  background: #7577fd !important;
+}
+.BannerLogoDiv {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.editionNumberBannerSection {
+  /* font-size: 2rem; */
+  color: white;
+  text-align: center !important;
+}
+
+/* sponsors section */
+.borderSponsor {
+  /* border-bottom: 1px solid #605656b8; */
+  border: 1px solid #605656b8;
+  padding: 10px;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  /* gap: 20px; */
+  border-radius: 5px;
+}
+
+.borderSponsor a img {
+  object-fit: contain;
+  height: 160px;
+  width: 160px;
+}
+
+/* end sponsors section */
+
+.closeBtnMediaModal {
+  border-radius: 32px;
+}
+.btnSpeaker {
+  border: 1px solid #652da0;
+  padding: 2px 15px;
+  border-radius: 4px; /* Adds a slight rounded corner */
+  background-color: white; /* Base background color */
+  color: #652da0; /* Text color */
+  cursor: pointer; /* Pointer cursor for better UX */
+  transition: all 0.3s ease; /* Smooth transition */
+}
+.btnSpeaker:hover {
+  background-color: #652da0; /* Change background on hover */
+  color: white; /* Change text color on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow effect */
+  transform: scale(1.05); /* Slight zoom effect */
+}
+.speaker-modal-cstm p {
+  text-align: justify;
+}
+.speakers-gallery-sec .speakers-gallery-items-wrap .speakers-gallery-item .item-content .sub {
+  min-height: 75px;
+  display: block;
+}
+.fontSizeAgenda {
+  font-size: 2.5rem;
+}
+.agendaPadding {
+  padding: 100px 0;
+}
+.sliderSponsordiv {
+  /* border: none !important; */
+}
+.sponsorSliderItem {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background: white;
+}
+.sponsorSliderItem p {
+  font-weight: bold;
+  margin-top: 12px;
+}
+.cstmPaddingSponsorSlider {
+  padding: 50px 0 !important;
+}
+.sposorSecReset {
+  /* padding: 90px 0; */
+  background: url("assets/esol/images/sponsors/sponsor-bg.webp");
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.sposorSecReset::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+.testimonialSectionBg {
+  position: relative;
+}
+.testimonialSectionBg::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+.accordianAgenda {
+  background: none !important;
+}
+.accordianUl::before {
+  font-family: "Font Awesome 6 Free";
+  content: "\f111";
+  font-weight: 600;
+  font-size: 6px;
+  color: white;
+  margin-right: 8px;
+}
+.BannerLogoDiv img {
+  width: 270px;
+}
+.navbar-nav li a {
+  text-transform: uppercase;
+}
+.card-description p a {
+  color: black;
+  font-size: 15px;
+}
+.agendaSpeakerImage {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.closesTextRefFrom {
+  color: #eb1a19;
+}
+
+
+/* marquee */
+
+.marquee-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.marquee {
+  display: inline-block;
+  white-space: nowrap;
+  animation: marquee 20s linear infinite;
+  padding-left: 100%;
+  /* Ensures full visibility at start */
+}
+
+.marquee h1 {
+  color: white
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+
+  /* Starts fully visible */
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+
+
+/* end marquee/
