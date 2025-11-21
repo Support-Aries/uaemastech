@@ -164,7 +164,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                                                      
                                                                       <!--<li><a href="award-catg.php"> AWARD CATEGORIES</a> </li>-->
                                                                      
-                                                                     <li><a href="nomination.php"> AWARD NOMINATION</a> </li>
+                                                                     <!-- <li><a href="nomination.php"> AWARD NOMINATION</a> </li> -->
                                                                       <li><a href="award-winners.php"> AWARD WINNERS 2017</a> </li> 
                                                                      
                                                                   
@@ -182,7 +182,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--                                                        <li><a href="contactus.php">CONTACT US</a></li>-->
                             
                             <li><a href="conference-registration.php">REGISTRATION</a></li>
-                            <li class="reg-button"><a href="http://www.uaemastech.com/live/">LIVE STREAM</a></li>
+                            <!-- <li class="reg-button"><a href="http://www.uaemastech.com/live/">LIVE STREAM</a></li> -->
                             
                             
 <!--                                                        <li><a href="#" class="active">Company</a></li>-->

@@ -55,13 +55,14 @@ font-size: 24px;
     
     
     
-    <div class="row">
+    <!-- <div class="row">
         <div class="col-sm-12 col-lg-12">
             <h1 style="color:white" class="h1">
                 MASTECH Conference &amp; MASTERCLASS Registration Form    
                </h1>
         </div>
     </div>
+     -->
     
     
     
@@ -74,24 +75,23 @@ font-size: 24px;
     
     
     
-    
-    <div class="row">
+    <!-- <div class="row">
         <div class="col-md-12">
            <?php
            if(isset($_GET['st'])&&!empty($_GET['st'])){
                     $st=$_GET['st'];
                      if($st==2)
                      { ?>
-    <div class="content" style="color: #e2d178"> Retry!!!</div>
+            <div class="content" style="color: #e2d178"> Retry!!!</div>
                      <?php  }
                     else if($st==1){ ?>
-    <div class="content" style="color: #DE0E0E">  The registration for MASTECH CONFERENCE and MASTERCLASS has been closed. We look forward to seeing you for the next edition of MASTECH & MASTERCLASS</div>
+            <div class="content" style="color: #DE0E0E">  The registration for MASTECH CONFERENCE and MASTERCLASS has been closed. We look forward to seeing you for the next edition of MASTECH & MASTERCLASS</div>
                      <?php }
                      else{ ?>
                          
            <?php } }
                      ?>
-    <br>
+            <br>
             <form method="post" action="conference_response.php">
                 <div class="row">
                     <div class="col-md-8">
@@ -178,7 +178,7 @@ font-size: 24px;
                             </select>
                         </div>
                         <div class="form-group">
-                            <!--<input type="checkbox" name="masterclassInt" id="masterclassInt">--> 
+                            
                             <label style="color: white" for="name">
                                 Interested in ‘MASTERCLASS on 26 March 2019 Onboard QE2’ ? </label>
                         <select name="masterclassInt" id="masterclassInt" class="form-control" style="color:#999;" required>
@@ -189,13 +189,7 @@ font-size: 24px;
                         </div>
                    
                         
-<!--                        <div class="form-group">
-                            <label style="color: white" for="phone">
-                                Message</label>
-                            
-                            <textarea rows="4" cols="50" name="msg" placeholder="Enter message" id="msg" class="form-control"></textarea>
-                            
-                        </div>-->
+       
 
                         <input type="hidden" value="" name="b_type" id="b_type">
                         <input type="hidden" value="" name="about_other" id="about_other">
@@ -210,7 +204,8 @@ font-size: 24px;
         </form>
                 
         </div>
-    </div><br/><br/><br/><br/><br/><br/>
+    </div> -->
+    <br/><br/><br/><br/><br/><br/>
     </div>
     
 </div>

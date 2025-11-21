@@ -132,7 +132,7 @@
 
                 <a href="images/MASTECH-2019-Brochure.pdf" target="_blank"><div class="col-md-2 col-sm-2 btn btn-danger pull-right" style="margin-left:10px;"> <b>Download  Brochure</b></div></a>
 
-                <a href="sponsorship-enquiry.php"><div class="col-md-2 col-sm-2 btn btn-primary pull-right"> <b>Sponsorship Enquiry</b></div></a>
+                <!-- <a href="sponsorship-enquiry.php"><div class="col-md-2 col-sm-2 btn btn-primary pull-right"> <b>Sponsorship Enquiry</b></div></a> -->
 
 
 
